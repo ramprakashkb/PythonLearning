@@ -1,0 +1,113 @@
+{
+  "S1": {
+    "Name": "Rakesh",
+    "Age": 14,
+    "Sex": "Male",
+    "class": 9,
+    "Section": "A",
+  "School Name": "Cheran Metric School",
+    "Father Name": "Kumar",
+    "State": "Tamil Nadu",
+    "Pincode": 639001
+  },
+    "S2": {
+    "Name": "Ram",
+    "Age": 14,
+    "Sex": "Male",
+    "class": 9,
+    "Section": "B",
+    "School Name": "Cheran Metric School",
+    "Father Name": "Sanjay",
+    "State": "Tamil Nadu",
+    "Pincode": 639001
+  },
+      "S3": {
+    "Name": "Abinaya",
+    "Age": 16,
+    "Sex": "Female",
+    "class": 10,
+    "Section": "A",
+    "School Name": "Therasa's Metric School",
+    "Father Name": "Alagappan",
+    "State": "Tamil Nadu",
+    "Pincode": 639001
+  },
+      "S4": {
+    "Name": "Adhvik",
+    "Age": 15,
+    "Sex": "Male",
+    "class": 10,
+    "Section": "B",
+    "School Name": "Valluvar Metric School",
+    "Father Name": "Rajenderan",
+    "State": "Tamil Nadu",
+    "Pincode": 639001
+  },
+      "S5": {
+    "Name": "Viknesh",
+    "Age": 17,
+    "Sex": "Male",
+    "class": 12,
+    "Section": "B",
+    "School Name": "Kongu Metric School",
+    "Father Name": "Sandep",
+    "State": "Tamil Nadu",
+    "Pincode": 639001
+  },
+      "S6": {
+    "Name": "Shanmugam",
+    "Age": 14,
+    "Sex": "Male",
+    "class": 9,
+    "Section": "B",
+    "School Name": "Cheran Metric School",
+    "Father Name": "Seetharaman",
+    "State": "Tamil Nadu",
+    "Pincode": 639001
+  },
+      "S7": {
+    "Name": "Geetha",
+    "Age": 14,
+    "Sex": "Female",
+    "class": 9,
+    "Section": "B",
+    "School Name": "Theresa's Metric School",
+    "Father Name": "Kumar",
+    "State": "Tamil Nadu",
+    "Pincode": 639001
+  },
+      "S8": {
+    "Name": "Aarthi",
+    "Age": 17,
+    "Sex": "Female",
+    "class": 12,
+    "Section": "B",
+    "School Name": "Valluvar Metric School",
+    "Father Name": "Kumar",
+    "State": "Tamil Nadu",
+    "Pincode": 639001
+  },
+      "S9": {
+    "Name": "Adhvaith",
+    "Age": 14,
+    "Sex": "Male",
+    "class": 9,
+    "Section": "B",
+    "School Name": "Kongu Metric School",
+    "Father Name": "Kumar",
+    "State": "Tamil Nadu",
+    "Pincode": 639001
+  },
+      "S10": {
+    "Name": "Anbu",
+    "Age": 14,
+    "Sex": "Male",
+    "class": 9,
+    "Section": "B",
+    "School Name": "Valluvar Metric School",
+    "Father Name": "Kumar",
+    "State": "Tamil Nadu",
+    "Pincode": 639001
+  }
+
+}
